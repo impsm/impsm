@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/prashantmankumare/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
-&nbps;
+<hr>
 <a href="https://www.linkedin.com/in/prashantmankumare/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
 
 <!---
