@@ -1,5 +1,3 @@
-- 👋 Hi, I’m PRASHANT MANKUMARE
-
 <a href="https://www.linkedin.com/in/prashantmankumare/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
 
 <!---
